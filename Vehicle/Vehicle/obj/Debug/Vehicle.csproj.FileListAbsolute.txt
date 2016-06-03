@@ -1,0 +1,4 @@
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle\bin\Debug\Vehicle.dll
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle\bin\Debug\Vehicle.pdb
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle\obj\Debug\Vehicle.dll
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle\obj\Debug\Vehicle.pdb

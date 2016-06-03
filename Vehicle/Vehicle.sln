@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicle.Service", "Vehicle.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicle.WebAPI", "Vehicle.WebAPI\Vehicle.WebAPI.csproj", "{38676615-685F-4C3E-A95D-65497D2C68E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicle.WebAPISelfHost", "Vehicle.WebAPISelfHost\Vehicle.WebAPISelfHost.csproj", "{32FB3CBD-AC13-410B-8AAD-C7C9268BD09E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicle.WPFTest", "Vehicle.WPFTest\Vehicle.WPFTest.csproj", "{8C653599-0B88-406F-A6D7-F84E67ED7787}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{38676615-685F-4C3E-A95D-65497D2C68E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38676615-685F-4C3E-A95D-65497D2C68E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38676615-685F-4C3E-A95D-65497D2C68E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32FB3CBD-AC13-410B-8AAD-C7C9268BD09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FB3CBD-AC13-410B-8AAD-C7C9268BD09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FB3CBD-AC13-410B-8AAD-C7C9268BD09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FB3CBD-AC13-410B-8AAD-C7C9268BD09E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C653599-0B88-406F-A6D7-F84E67ED7787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C653599-0B88-406F-A6D7-F84E67ED7787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C653599-0B88-406F-A6D7-F84E67ED7787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C653599-0B88-406F-A6D7-F84E67ED7787}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

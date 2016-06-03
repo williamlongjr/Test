@@ -1,0 +1,6 @@
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.Service\bin\Debug\Vehicle.Service.exe.config
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.Service\bin\Debug\Vehicle.Service.exe
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.Service\bin\Debug\Vehicle.Service.pdb
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.Service\obj\Debug\Vehicle.Service.csprojResolveAssemblyReference.cache
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.Service\obj\Debug\Vehicle.Service.exe
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.Service\obj\Debug\Vehicle.Service.pdb

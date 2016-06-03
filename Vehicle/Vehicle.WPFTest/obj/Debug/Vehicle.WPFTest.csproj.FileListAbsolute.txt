@@ -1,0 +1,17 @@
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.WPFTest\bin\Debug\Vehicle.WPFTest.exe.config
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.WPFTest\bin\Debug\Vehicle.WPFTest.exe
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.WPFTest\bin\Debug\Vehicle.WPFTest.pdb
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.WPFTest\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.WPFTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.WPFTest\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.WPFTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.WPFTest\obj\Debug\MainWindow.g.cs
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.WPFTest\obj\Debug\App.g.cs
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.WPFTest\obj\Debug\Vehicle.WPFTest_MarkupCompile.cache
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.WPFTest\obj\Debug\Vehicle.WPFTest_MarkupCompile.lref
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.WPFTest\obj\Debug\MainWindow.baml
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.WPFTest\obj\Debug\Vehicle.WPFTest.g.resources
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.WPFTest\obj\Debug\Vehicle.WPFTest.Properties.Resources.resources
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.WPFTest\obj\Debug\Vehicle.WPFTest.csproj.GenerateResource.Cache
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.WPFTest\obj\Debug\Vehicle.WPFTest.exe
+C:\Users\BillL\Source\Repos\Test\Vehicle\Vehicle.WPFTest\obj\Debug\Vehicle.WPFTest.pdb
